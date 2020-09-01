@@ -30,6 +30,7 @@ class Plecostomus(fishColor: FishColor = GoldColor):  FishAction by PrintingFish
 //    override fun eat() {
 //        println("eat algae")
 //    }
+    
 }
 
 sealed class Seal
